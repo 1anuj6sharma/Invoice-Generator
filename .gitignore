@@ -9,8 +9,7 @@ __pycache__/
 venv/
 env/
 
-# Model files (IMPORTANT)
-models/*.pkl
+
 
 # Database file (optional but recommended)
 data/*.db
